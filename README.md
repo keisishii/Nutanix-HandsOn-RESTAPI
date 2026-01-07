@@ -5,13 +5,19 @@
 ### 接続先
 nuta-auto(172.29.30.12) user:nutanix/pw:Peg-12345!  
 
-### 操作方法
+### 操作方法（例）
 ①Pythonの仮想環境へ移動  
-'''source .python3_venv/bin/activate'''  
+```  
+source .python3_venv/bin/activate
+```  
 ②ディレクトリの移動  
-'''cd basic-handson'''  
+```
+cd basic-handson
+```  
 ③コードの実行  
-'''python Foundation_Post.py'''  
+```
+python Foundation_Post.py
+```  
 
 
 ### 初級
